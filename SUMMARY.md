@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-    * [Introduction](README.md)
     * [Header data](ch1/README.md)
     * [Sync devices](ch2/README.md)
         * [Request Format](ch2/Requset Format.md)
