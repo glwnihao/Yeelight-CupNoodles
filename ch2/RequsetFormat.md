@@ -1,4 +1,4 @@
-# Request Format
+# RequestFormat
 
 ```
 {
@@ -17,3 +17,4 @@
 | --------- | ------ | ------------------- | ------------------------------------------------------------ |
 | intent    | String | action.devices.SYNC | Required.                                                    |
 | requestId | String | 4180463424101195867 | Required. Random string as Id of each request for ease of tracing. |
+
