@@ -1,2 +1,2 @@
-# Yeelight-CupNoodles
-CupNoodles Introduction
+# Introduction
+
