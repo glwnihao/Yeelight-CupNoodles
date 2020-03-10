@@ -9,14 +9,14 @@
                 "devices": [
                     {
                         "customData": {
-                            "region": "cn",
+                            "region": "CN",
                             "model": "yeelink-mono1"
                         }, 
                         "id": "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA15ZWVsaW5rLW1vbm8xFRQYCDQ1MTAyMzgwFWYA"
                     }, 
                     {
                         "customData": {
-                            "region": "cn",
+                            "region": "CN",
                             "model": "yeelink-color1"
                         }, 
                         "id": "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA55ZWVsaW5rLWNvbG9AyMRUUGAg0NTk2NTYwNRVoAA"

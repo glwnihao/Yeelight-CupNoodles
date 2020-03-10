@@ -16,7 +16,7 @@
                     "deviceName": "fairy"
                 },
                 "customData": {
-                    "region": "cn",
+                    "region": "CN",
                     "model": "yeelink-mono1"
                 }
             },
@@ -35,7 +35,7 @@
                     "TemperatureMaxK": 6500
                 },
                 "customData": {
-                    "region": "cn",
+                    "region": "CN",
                     "model": "yeelink-color1"
                 }
             },
@@ -55,7 +55,7 @@
                     "TemperatureMaxK": 6500
                 },
                 "customData": {
-                    "region": "cn",
+                    "region": "CN",
                     "model": "yeelink-ct2"
                 }
             }

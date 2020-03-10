@@ -15,7 +15,7 @@
                             {
                                 "customData": { 
                                     "model": "yeelink-mono1", 
-                                    "region": "cn"
+                                    "region": "CN"
                                 }, 
                                 "id": "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA55ZWVsaW5rLWNvbG9AyMRUUGAg0NTk2NTYwNRVoAA"
                             }
