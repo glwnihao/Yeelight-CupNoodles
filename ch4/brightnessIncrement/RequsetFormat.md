@@ -9,25 +9,35 @@
 
 ```
 {
-    "requestId": "6529877997918554205",
-    "payload": {
-        "commands": [
-            {
-                "ids": [
-                    "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA55ZWVsaW5rLWNvbG9AyMRUUGAg1NTAwMTk0NhVoAA"
-                ],
-                "status": "ERROR",
-                "errorCode": "deviceNotFound",
-                "debugString": ""
-            },
-            {
-                "ids": [
-                    "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA55ZWVsaW5rLWNvbG9AyMRUUGAg0NTk2NTYwNRVoAA"
-                ],
-                "status": "SUCCESS"
+    "inputs": [
+        {
+            "intent": "action.devices.EXECUTE",
+            "payload": {
+                "commands": [
+                    {
+                        "devices": [
+                            {
+                                "customData": {
+                                    "model": "yeelink-mono1",
+                                    "region": "cn"
+                                },
+                                "id": "M1GAxtaW9A0LXNwZWMtdjIVgoAFGA55ZWVsaW5rLWNvbG9AyMRUUGAg0NTk2NTYwNRVoAA"
+                            }
+                        ],
+                        "execution": [
+                            {
+                                "command": "action.devices.commands.BrightnessIncrement",
+                                "params": {
+                                    "brightness": 15
+                                }
+                            }
+                        ]
+                    }
+                ]
             }
-        ]
-    }
+        }
+    ],
+    "requestId": "18210843532278199762"
 }
 ```
 
