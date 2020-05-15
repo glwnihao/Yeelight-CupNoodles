@@ -58,6 +58,21 @@
                     "region": "CN",
                     "model": "yeelink-ct2"
                 }
+            },
+            {
+                "id": "6-199",
+                "customData": {},
+                "type": "action.devices.types.SCENE",
+                "traits": [
+                    "action.devices.traits.Scene"
+                ],
+                "attributes": {
+                    "sceneReversible": false
+                },
+                "name": {
+                    "deviceName": "回家"
+                },
+                "willReportState": false
             }
         ]
     }

@@ -27,6 +27,9 @@
         * [ColorTemperature](ch4/ColorTemperature.md)
             * [Request Format](ch4/colorTemperature/RequsetFormat.md)
             * [ResponseFormat](ch4/colorTemperature/ResponseFormat.md)
+        * Scene
+            * [Request Format](ch4/scene/RequsetFormat.md)
+            * [ResponseFormat](ch4/scene/ResponseFormat.md)
     * [Unlink](ch5/Unlink.md)
         * [Request Format](ch5/RequsetFormat.md)
         * [ResponseFormat](ch5/ResponseFormat.md)
